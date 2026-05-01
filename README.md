@@ -58,4 +58,4 @@ This repository is being developed as part of my data science and geospatial vis
 - Add screenshots of the static and interactive maps
 - Add a cleaner project notebook
 - Add explanation of the main findings
-- Add requirements file for reproducibility
+- Add setup instructions and package version details for reproducibility
