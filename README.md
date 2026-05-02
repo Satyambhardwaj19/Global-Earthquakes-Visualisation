@@ -50,7 +50,7 @@ Key variables used include:
 
 ## Current Status
 
-This repository is being developed as part of my data science and geospatial visualisation portfolio. More code, outputs, and project explanations will be added as the project is cleaned and structured.
+This repository currently includes the main project notebook. Outputs, screenshots, and additional explanation will be added as the project is developed further.
 
 ## Future Improvements
 
