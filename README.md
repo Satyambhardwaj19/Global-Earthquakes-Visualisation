@@ -39,6 +39,26 @@ Key variables used include:
 - Used marker size and colour to represent earthquake magnitude
 - Added popups to show additional earthquake details
 
+## Project Outputs
+
+### Static Map: Earthquake Magnitude
+
+This map shows the global distribution of earthquakes with marker size and colour used to represent magnitude.
+
+![Static earthquake magnitude map](outputs/static_magnitude_map.png)
+
+### Static Map: Earthquake Depth
+
+This map explores earthquake depth as an additional variable, helping to show where deeper and shallower events occur.
+
+![Static earthquake depth map](outputs/static_depth_map.png)
+
+### Interactive Map Preview
+
+The interactive map allows users to explore individual earthquake events using popups with magnitude, location, depth, and time information.
+
+![Interactive earthquake map preview](outputs/interactive_map_preview.png)
+
 ## Key Skills Demonstrated
 
 - API data retrieval
