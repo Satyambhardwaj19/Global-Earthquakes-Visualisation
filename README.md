@@ -70,7 +70,7 @@ The interactive map allows users to explore individual earthquake events using p
 
 ## Current Status
 
-This repository currently includes the main project notebook. Outputs, screenshots, and additional explanation will be added as the project is developed further.
+This repository currently includes the main project notebook and output previews for the static and interactive maps. Further improvements will focus on clearer interpretation, improved styling, and reproducibility.
 
 ## Future Improvements
 
