@@ -120,7 +120,9 @@ These findings show how geospatial data, API retrieval, and interactive visualis
 
 ## Current Status
 
-This repository currently includes the main project notebook and output previews for the static and interactive maps. Further improvements will focus on clearer interpretation, improved styling, and reproducibility.
+This repository currently includes the main project notebook, static map outputs, and an interactive map preview. The project is structured as part of my data science and geospatial visualisation portfolio.
+
+Further improvements will focus on improving the visual design, adding tectonic plate boundary context, and making the project easier to reproduce.
 
 ## Future Improvements
 
