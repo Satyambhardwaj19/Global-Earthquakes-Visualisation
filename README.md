@@ -18,7 +18,6 @@ The project uses Python to retrieve and prepare earthquake data, then creates ma
 
 ## Repository Structure
 
-```text
 global-earthquakes-visualisation/
 │
 ├── README.md
