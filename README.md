@@ -126,8 +126,9 @@ Further improvements will focus on improving the visual design, adding tectonic 
 
 ## Future Improvements
 
-- Add more detailed map styling
-- Add screenshots of the static and interactive maps
-- Add a cleaner project notebook
-- Add explanation of the main findings
-- Add setup instructions and package version details for reproducibility
+- Add tectonic plate boundary data for stronger geographic context
+- Improve the interactive map legend and styling
+- Add filters for magnitude, depth, or region
+- Compare earthquake activity across multiple years
+- Add a small dashboard version using Python dashboard tools
+- Include package versions for stronger reproducibility
