@@ -34,6 +34,28 @@ global-earthquakes-visualisation/
 │
 └── data/
 
+## How to Run This Project
+
+To run this project locally, follow these steps:
+
+1. Clone this repository:
+
+    git clone https://github.com/Satyambhardwaj19/global-earthquakes-visualisation.git
+
+2. Move into the project folder:
+
+    cd global-earthquakes-visualisation
+
+3. Install the required Python packages:
+
+    pip install -r requirements.txt
+
+4. Open the notebook:
+
+    jupyter notebook notebooks/earthquake_analysis.ipynb
+
+The notebook retrieves data directly from the USGS Earthquake Catalog API, so an internet connection is required when running the data retrieval cells.
+
 ## Dataset
 
 The data comes from the USGS Earthquake Catalog API. The project focuses on global earthquake events from 2025 with magnitude 4.5 and above.
