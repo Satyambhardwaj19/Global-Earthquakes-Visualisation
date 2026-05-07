@@ -16,6 +16,25 @@ The project uses Python to retrieve and prepare earthquake data, then creates ma
 - requests
 - USGS Earthquake Catalog API
 
+## Repository Structure
+
+```text
+global-earthquakes-visualisation/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── notebooks/
+│   └── earthquake_analysis.ipynb
+│
+├── outputs/
+│   ├── static_magnitude_map.png
+│   ├── static_depth_map.png
+│   └── interactive_map_preview.png
+│
+└── data/
+
 ## Dataset
 
 The data comes from the USGS Earthquake Catalog API. The project focuses on global earthquake events from 2025 with magnitude 4.5 and above.
