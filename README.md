@@ -99,6 +99,16 @@ The interactive map allows users to explore individual earthquake events using p
 
 ![Interactive earthquake map preview](outputs/interactive_map_preview.png)
 
+## Key Findings
+
+- Earthquake activity is not evenly distributed across the world.
+- Many events are concentrated around tectonically active regions, especially near plate boundaries.
+- Larger magnitude earthquakes can be highlighted effectively using marker size and colour.
+- Earthquake depth adds useful context because events occur at different depths below the Earth's surface.
+- The interactive Folium map makes the project easier to explore because users can inspect individual earthquake events through popups.
+
+These findings show how geospatial data, API retrieval, and interactive visualisation can be combined to communicate spatial patterns clearly.
+
 ## Key Skills Demonstrated
 
 - API data retrieval
