@@ -15,9 +15,11 @@ The project uses Python to retrieve and prepare earthquake data, then creates ma
 - Folium
 - requests
 - USGS Earthquake Catalog API
+- Geodatasets
 
 ## Repository Structure
 
+```text
 global-earthquakes-visualisation/
 │
 ├── README.md
@@ -33,6 +35,7 @@ global-earthquakes-visualisation/
 │   └── interactive_map_preview.png
 │
 └── data/
+```
 
 ## How to Run This Project
 
