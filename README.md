@@ -127,6 +127,10 @@ This repository currently includes the main project notebook, static map outputs
 
 Further improvements will focus on improving the visual design, adding tectonic plate boundary context, and making the project easier to reproduce.
 
+## Project Reflection
+
+This project helped me practise working with real API data, preparing geospatial datasets, and presenting spatial patterns through both static and interactive maps. It also helped me understand how clear documentation and visual outputs can make a data project easier for others to understand.
+
 ## Future Improvements
 
 - Add tectonic plate boundary data for stronger geographic context
